@@ -1,4 +1,4 @@
-# Philip Rogers Writing Samples
+
 For an overview of some of my work, see the links below.
 
 + **2024** Organization: Pentagon 9/11 Memorial. [Analysis: 9/11 Fact Sheet and Resources](https://drive.google.com/file/d/1APVcdOrHSiSUr7uXlP4AHYPFSVI3QpJA/view?usp=drive_link)
