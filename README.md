@@ -2,6 +2,7 @@
 For an overview of some of my work, see the links below.
 
 + **2024** Organization: Pentagon 9/11 Memorial. [Analysis: 9/11 Fact Sheet and Resources](https://drive.google.com/file/d/1APVcdOrHSiSUr7uXlP4AHYPFSVI3QpJA/view?usp=drive_link)
++ **2023** Organization: LogRocket [What is MTTR? Examples and Guide to System Performance](https://drive.google.com/file/d/16deNDAgGvWTDrIk2tBwTbvjPucQTtqSS/view?usp=drive_link)
 + **2023** Organization: TextNow. [Kanban in a Nutshell](https://drive.google.com/file/d/1rTlwILsBqlumDAv3EyCbNPNUIJB7_9WN/view?usp=drive_link)
 + **2022** Organization: Bookboon (publisher). [eBook: Easy to Use Team Facilitation Techniques](https://drive.google.com/file/d/1cQrK5aRhM6p4QQ_EVSlKh1kT4YRxqmVS/view?usp=drive_link)
 + **2020** Organization: CFPB (Excella). [Portfolio, Program, and Project Management in an Agiile Context](https://drive.google.com/file/d/1F-kbZhVd5tmggmysWvSk6SBhwGrmxBJf/view?usp=drive_link)
