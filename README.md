@@ -1,4 +1,4 @@
-# Phil Rogers Writing Porfolio
+# Philip Rogers Writing Porfolio
 
 I am a Technical Communications Specialist with deep understanding of multiple business and technical domains who holds numerous professional certifications and has experience with many tools, technologies, and process frameworks. Among my greatest strengths is the ability to understand and articulate complex topics for audiences with diverse backgrounds in multiple formats. I have done many forms of writing as a paid employee and also as a volunteer, and you can find a representative sample of my work below.
 
